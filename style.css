@@ -1,0 +1,54 @@
+h1{
+    color: rgb(14, 13, 13);
+  font-family: sans-serif; 
+}
+p{
+    font-family: fantasy; 
+color:black;
+line-height: 1.6;
+max-width: 600px;
+margin-bottom: 1rem;
+}
+ul
+{
+    list-style-type: square;/
+}
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+a{
+    text-decoration: none;
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: rgb(0, 132, 255);
+    color: #ffffff;
+}
+#menu-bar a{
+font-family: 'Courier New', Courier, monospace;
+text-decoration: none;
+background-color: aquamarine;
+padding: 5px;
+}
+#menu-bar a:hover{
+    background-color: aqua;
+    color:#ffffff;
+}
+body{
+    background-color: rgb(202, 135, 195);
+    color: #000;
+    font-family: Arial,sans-serif;
+    padding:2rem;
+}
+footer{
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 1rem;
+    margin-top:2rem;
+    color: #ffffff;
+    background-color: #6a1b9a;
+}
+img{
+    margin-bottom: 1rem;
+    border-radius: 8px;
+}
